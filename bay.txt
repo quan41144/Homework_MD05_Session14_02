@@ -1,0 +1,8 @@
+
+Nhìn sang thanh công cụ bên phải của Panel RAM, cuộn xuống phần Standard options.
+
+Tại trường Unit, bấm vào danh sách thả xuống, gõ tìm khóa bytes.
+
+Chọn Data -> bytes (IEC) (chia theo hệ 1024, ra MiB/GiB) hoặc bytes (Metric) (chia hệ 1000, ra MB/GB).
+
+Bấm Apply sau đó bấm Save (biểu tượng đĩa mềm ở góc trên cùng) để lưu toàn bộ Dashboard.
